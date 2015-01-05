@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:048170_0000_1024EA8BA6316B88"/>
-            <pb facs="tcp:048170_0001_1024EA8EFACB3178" rendition="simple:additions"/>
+            <pb facs="unknown:048170_0000_1024EA8BA6316B88"/>
+            <pb facs="unknown:048170_0001_1024EA8EFACB3178"
+                rendition="simple:additions"/>
             <p>THE Trial, Condemnation and Horrid Execution OF David M'Lean, Formerly of Pennſylvania, for High Treaſon, Againſt the Britiſh Government, at the city of Quebec, on the 21ſt of July laſt<g ref="char:punc">▪</g>
             </p>
             <p>Who was hanged, drawn, quartered and beheaded on the above day, with all the attendant circumſtan<g ref="char:EOLhyphen"/>ces of cruelty and barbarity.</p>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div type="trial_account">
-            <pb facs="tcp:048170_0002_1024EA9312985C58"/>
+            <pb facs="unknown:048170_0002_1024EA9312985C58"/>
             <head>Trial of <hi>David M'Lean,</hi> for High Treaſon.</head>
             <opener>
                <dateline>QUEBEC, <date>July 11.</date>
@@ -139,7 +140,7 @@
                </gap>d<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>s. The
-<pb n="4" facs="tcp:048170_0003_1024EA9BE902EAA8"/>
+<pb n="4" facs="unknown:048170_0003_1024EA9BE902EAA8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> apolog<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -177,7 +178,7 @@
                </gap>, on all of which he attempted to put an innocent conſtruction, and concluded with a fervent prayer to the Deity, that he would give the po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ers of utterance to his young counſel who were to ſpeak in his be<g ref="char:EOLhyphen"/>half. Mr. Pyke and Mr. Franklyn, who had been aſſigned, were then heard for the priſoner; but they cal<g ref="char:EOLhyphen"/>led for no witneſſes. The Attorney General made a very able reply, in which he commented on the priſoner's indiſcretion in attempting his own defence, and clearly refuted all the pretexts he had ſet up, to the convic<g ref="char:EOLhyphen"/>tion of every body. The evidence was then ſummed up by the Chief Juſtice, who obſerved, that moſt of the overt acts charged, which were fourteen in number had been proved by three or four witneſſes; many of whom (which was rarely the caſe in proſecutions of
-<pb n="5" facs="tcp:048170_0004_1024EAA0392AAC90"/>
+<pb n="5" facs="unknown:048170_0004_1024EAA0392AAC90"/>
 this ſort) were not at all implicated in the crime.</p>
             <p>The Jury, after being out about half an hour returned with the ver<g ref="char:EOLhyphen"/>dict of GUILTY—The priſoner up<g ref="char:EOLhyphen"/>on being aſked what he had to ſay, why judgment of death ſhould not be paſſed upon him, referred to his counſel, who moved two law points in arreſt of judgment, which were anſwered by the Attorney General, and overruled by the court. The priſoner was again aſked if he had any thing further to ſay, and anſwer<g ref="char:EOLhyphen"/>ing nothing, the Chief Juſtice pro<g ref="char:EOLhyphen"/>ceeded to give ſentence, as nearly as we could collect it, to the following effect:</p>
             <q>
@@ -191,21 +192,21 @@ this ſort) were not at all implicated in the crime.</p>
                               <desc>•</desc>
                            </gap>. You have been tried by a reſpectable and in<g ref="char:EOLhyphen"/>telligent Jury, many of whom have heretofore ſerved on the grand In<g ref="char:EOLhyphen"/>queſt.</p>
                         <p>
-                           <pb n="6" facs="tcp:048170_0005_1024EAAA480DC480"/>Your trial has been attended with ſuch circumſtances of fairneſs, open<g ref="char:EOLhyphen"/>neſs and lenity, as are not obtained in any country upon earth except where the laws of England prevail. More than twenty days have elapſed ſince you were acquainted with the particulars of the charge brought a<g ref="char:EOLhyphen"/>gainſt you, and of the names of the witneſſes to prove it, that you might not be ſurpriſed by a ſudden accuſa<g ref="char:EOLhyphen"/>tion, and might have full time to prepare your defence. After the facts charged were fully eſtabliſhed by the verdict, your counſel have been heard on every objection that could be brought to the regularity of the proceedings; had you been ac<g ref="char:EOLhyphen"/>cuſed of the like crime in that coun<g ref="char:EOLhyphen"/>try, whoſe government you would wiſh to impoſe on this province, in<g ref="char:EOLhyphen"/>ſtead of being allowed a period of 20 days, you might have been char<g ref="char:EOLhyphen"/>ged, convicted and executed in leſs than ſo many minutes ,—Reflect, therefore whether you have not been guilty of a mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <pb n="6" facs="unknown:048170_0005_1024EAAA480DC480"/>Your trial has been attended with ſuch circumſtances of fairneſs, open<g ref="char:EOLhyphen"/>neſs and lenity, as are not obtained in any country upon earth except where the laws of England prevail. More than twenty days have elapſed ſince you were acquainted with the particulars of the charge brought a<g ref="char:EOLhyphen"/>gainſt you, and of the names of the witneſſes to prove it, that you might not be ſurpriſed by a ſudden accuſa<g ref="char:EOLhyphen"/>tion, and might have full time to prepare your defence. After the facts charged were fully eſtabliſhed by the verdict, your counſel have been heard on every objection that could be brought to the regularity of the proceedings; had you been ac<g ref="char:EOLhyphen"/>cuſed of the like crime in that coun<g ref="char:EOLhyphen"/>try, whoſe government you would wiſh to impoſe on this province, in<g ref="char:EOLhyphen"/>ſtead of being allowed a period of 20 days, you might have been char<g ref="char:EOLhyphen"/>ged, convicted and executed in leſs than ſo many minutes ,—Reflect, therefore whether you have not been guilty of a mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
                            </gap> unjuſt attempt a<g ref="char:EOLhyphen"/>gainſt this government.</p>
                         <p>It appears in evidence that you are an al<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>en to the king's government;
-<pb n="7" facs="tcp:048170_0006_1024EAADA2BF8200"/>
+<pb n="7" facs="unknown:048170_0006_1024EAADA2BF8200"/>
 notwithſtanding which you have been treated with the ſame indulgence as tho you had been a native ſubject. true it is, that a treaty of Amity ſub<g ref="char:EOLhyphen"/>ſiſts between his majeſty's ſubjects and the citizens of the United States, many of whom have borne public teſtimony to the kindly offices receiv<g ref="char:EOLhyphen"/>ed from the king's ſubjects—It is an intercourſe we wiſh to cheriſh, as well with public bodies as with individu<g ref="char:EOLhyphen"/>als; and as it is not probable that you perſonally have received an in<g ref="char:EOLhyphen"/>jury from this colony—you have been guilty of an unprovoked attempt a<g ref="char:EOLhyphen"/>gainſt this government.</p>
                         <p>Having heard of ſome diſturbances that were excited on account of the road bill, you falſely concluded that his majeſty's Canadian ſubjects were diſaffected to government and ready to join in a rebellion, which you were willing to conduct. You might have known that it is eaſy to provoke murmers on a like occaſion, in the beſt regulated ſtates. In England ſimilar diſcontents take place and ſubſide as in this country—for a ſhort experience has convinced the people that the meaſure was greatly
-<pb n="8" facs="tcp:048170_0007_1024EAB1C53918E0"/>
+<pb n="8" facs="unknown:048170_0007_1024EAB1C53918E0"/>
 for their benefit. Putting conſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ence out of the queſtion, as a prudent man, you had no ground to go upon. No one therefore, but a raſh and an un<g ref="char:EOLhyphen"/>principled character would have en<g ref="char:EOLhyphen"/>gaged in ſo deſperate an enterprize, and no one but a cruel and inhuman character would have projected ſuch meaſures to carry it into execution. Conſider, then<g ref="char:punc">▪</g> whether you have not been guilty of a moſt atrocious and ſanguinary attempt againſt this gov<g ref="char:EOLhyphen"/>ernment.</p>
                         <p>Perhaps you may think that theſe terms favor a ſpirit of reproach—far from it—in your pitiable condition to betray ſuch a temper were very unworthy. No, they are utttered in the ſpirit of admonition, and that up<g ref="char:EOLhyphen"/>on this principle: You ſeem to poſ<g ref="char:EOLhyphen"/>ſeſs a good underſtanding; I with therefore, to faſten on your mind, the perſuaſion of this manifeſt truth, which nothing but the moſt perverſe obſtinacy can reſiſt, namely, that tho your deſigns were moſt hoſtile againſt this government, yet you have expe<g ref="char:EOLhyphen"/>rienced that fair trial you would not have met with in any other govern<g ref="char:EOLhyphen"/>ment under heaven—In hopes, that
-<pb n="9" facs="tcp:048170_0008_1024EABA4173CBB0"/>
+<pb n="9" facs="unknown:048170_0008_1024EABA4173CBB0"/>
 when the miſt of deluſion ſhall have diſappeared, the conviction of one truth, may prepare your mind for the admiſſion of others, and finally pro<g ref="char:EOLhyphen"/>duce that ſenſe of contrition and re<g ref="char:EOLhyphen"/>morſe, which can alone expiate your dangerouſly wicked crimes. Had your traiteros project been carried into execution, who is there in this numerous audience that would not have felt the conſequence among his friends and relations, or in his own perſon? But as it has pleaſed Provi<g ref="char:EOLhyphen"/>dence to baffle your pernicious de<g ref="char:EOLhyphen"/>ſigns, I ſhall preſs the ſubject no further.</p>
                         <p>This government, which you wiſh to overthrow, has like all others pro<g ref="char:EOLhyphen"/>vided for its ſecurity againſt thoſe that wiſh to deſtroy it. In the ſcru<g ref="char:EOLhyphen"/>tiny of offences it is more lenient than others, but it <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
@@ -220,7 +221,7 @@ when the miſt of deluſion ſhall have diſappeared, the conviction of one trut
                            </gap>hat puniſh<g ref="char:EOLhyphen"/>ment you have juſtly incurred, and it would be highly uncharitable to beguile you with the expectation that it will not be inflicted. Let me therefore, moſt ſeriouſly exhort you to employ the ſhort time you have to live, in ſubmitting yourſelf <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ith hu<g ref="char:EOLhyphen"/>miliation
-<pb n="10" facs="tcp:048170_0009_1024EAC14670B268"/>
+<pb n="10" facs="unknown:048170_0009_1024EAC14670B268"/>
 and repentance to the ſu<g ref="char:EOLhyphen"/>preme ruler of all things, whoſe goodneſs is equal to his power, and who, tho you ſuffer here, may admit you to his everlaſting mercy hereafter. That ſuch may be your portion is my moſt earneſt prayer.</p>
                         <p>It remains that I ſhould diſcharge the painful duty of pronouncing the ſentence of the law, which is: That you, David M'Lean, be taken to the place from whence you came, and from thence to the place of execu<g ref="char:EOLhyphen"/>tion, where you muſt be hanged by the neck, but not till you are dead, for you muſt be cut down alive, and your bowels be taken out and burnt before your face: then your head muſt be ſevered from your body, which muſt be divided in four parts, and your head and quarters be at the King's diſpoſal; and the Lord have mercy on your ſoul.</p>
                      </div>
@@ -229,9 +230,9 @@ and repentance to the ſu<g ref="char:EOLhyphen"/>preme ruler of all things, who
             </q>
             <p>The trial laſted from 7 o'clock in the morning till nine in the evening.</p>
             <p>After ſentence was paſſed on him, he behaved as became his unhappy ſituation. He confeſſed he was em<g ref="char:EOLhyphen"/>ployed
-<pb n="11" facs="tcp:048170_0010_1024EAC392290470"/>
+<pb n="11" facs="unknown:048170_0010_1024EAC392290470"/>
 by Adet the late French mi<g ref="char:EOLhyphen"/>niſter at Philadelphia, to carry letters to ſome diſaffected gentlemen, to in<g ref="char:EOLhyphen"/>cite them to revolt againſt the go<g ref="char:EOLhyphen"/>vernment of the province, with a promiſe of being aſſiſted very ſhortly with a naval force. He was charged alſo with commiſſions for thoſe who were to take the lead; ſeveral of whom are apprehended and now in confinement. On the 21ſt of July he was brought from priſon to the Grand Square, the whole garriſon were under arms—two executioners attended,—he declared that he was innocent of any attempt to diſturb the peace of the government, and did not know that the letters he had been employed to carry for Adet were of that tendency; he prayed about five minutes and then gave the ſignal that he was ready. He was drawn up the gallows by a pulley, and let down again in a few minutes, when the o<g ref="char:EOLhyphen"/>ther executioner proceeded to quarter him, which began by cutting a large inciſion in his left ſide and taking out his heart, which was thrown into a fire kindled under the gallows for the purpoſe; he was then cut into four quarters in a ſhocking and
-<pb n="12" facs="tcp:048170_0011_1024EACAA3EDB548"/>
+<pb n="12" facs="unknown:048170_0011_1024EACAA3EDB548"/>
 butchering manner; his head was ſevered from his body and ſtuck on a pole, was fixed to the top of one of the Baſtions of St. Louis—his quar<g ref="char:EOLhyphen"/>ters were permitted to be buried the next day. Thus fell an unfortunate man, a dupe to French artifice. He was about 30 years of age, a native of Airſhire in Scotland.</p>
             <trailer>FINIS.</trailer>
          </div>
